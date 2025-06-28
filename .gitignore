@@ -1,0 +1,8 @@
+# 例（Node.jsやPythonなどによくある除外）
+node_modules/
+.env
+__pycache__/
+*.pyc
+venv/
+dist/
+.DS_Store
