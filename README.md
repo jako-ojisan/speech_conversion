@@ -36,7 +36,6 @@ Built with:
 
 ## 🛠️ Local Setup
 
-```bash
 git clone https://github.com/your-username/voice-gpt-diagram-app.git
 cd voice-gpt-diagram-app
 npm install
